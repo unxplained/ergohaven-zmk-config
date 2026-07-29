@@ -60,7 +60,7 @@
         Arrows {
             bindings = <
 &kp GRAVE  &trans  &trans  &trans  &trans  &trans                    &trans  &trans          &trans            &kp LEFT_BRACE  &kp RIGHT_BRACE  &kp DELETE
-&trans     &trans  &trans  &trans  &trans  &trans                    &trans  &trans          &kp UP            &kp KP_EQUAL    &kp KP_PLUS      &kp KP_MINUS
+&trans     &trans  &trans  &trans  &trans  &trans                    &trans  &trans          &kp UP            &kp EQUAL       &kp KP_PLUS      &kp KP_MINUS
 &trans     &trans  &trans  &trans  &trans  &trans                    &trans  &kp LEFT_ARROW  &kp DOWN_ARROW    &kp RIGHT       &trans           &kp BACKSLASH
 &trans     &trans  &trans  &trans  &trans  &trans  &trans    &trans  &trans  &kp K_PREVIOUS  &kp K_PLAY_PAUSE  &kp K_NEXT      &trans           &figma_toggle
                    &trans  &trans  &trans  &trans  &mo 3     &trans  &trans  &trans          &trans            &trans
